@@ -1,6 +1,6 @@
 # Week 4 
 
-<a href="https://reactmenu-udk.netlify.app/" target="blank">Here is the Link!!</a>
+<a href="https://reactmenu-udk.netlify.app/" target="_blank">Here is the Link!!</a>
 
 
 
